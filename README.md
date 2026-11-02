@@ -148,7 +148,7 @@ Based on the findings, the following initiatives are recommended for further eva
 4. **Customer Segmentation:** Develop tailored reservation communication strategies for Groups, Travel Agents, Direct, and Corporate bookings.
 5. **Operational Planning:** Use seasonal booking patterns to support staffing, room inventory, and service resource planning.
 
-Detailed findings and recommendations are available in [Business Insights](business_insights.md).
+Detailed findings and recommendations are available in [Business Insights](Business_insights.md).
 
 ## Project Structure
 
