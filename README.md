@@ -160,7 +160,7 @@ Hotel-Booking-Demand-Analysis/
 │
 ├── hotel_booking_eda.ipynb
 ├── case_study.md
-├── business_insights.md
+├── Business_insights.md
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -169,7 +169,7 @@ Hotel-Booking-Demand-Analysis/
 ### Documentation
 
 - [Case Study](case_study.md) — Business problem, dataset description, methodology, and 25 analytical questions.
-- [Business Insights](business_insights.md) — Key findings, business implications, and strategic recommendations.
+- [Business Insights](Business_insights.md) — Key findings, business implications, and strategic recommendations.
 - [Jupyter Notebook](hotel_booking_eda.ipynb) — Complete Python code, visualizations, and analytical results.
 
 ## How to Run the Project
@@ -177,11 +177,10 @@ Hotel-Booking-Demand-Analysis/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Hotel-Booking-Demand-Analysis.git
+git clone https://github.com/Himanshu584/Hotel-Booking-Demand-Analysis.git
 cd Hotel-Booking-Demand-Analysis
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username after publishing the repository.
 
 ### 2. Create a Virtual Environment
 
